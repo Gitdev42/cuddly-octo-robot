@@ -43,7 +43,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Tschunk!"
+                 "value":"Tschunk"
                 }],
          "type":"tilelayer",
          "visible":false,
