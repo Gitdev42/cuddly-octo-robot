@@ -23,9 +23,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/skribbl.io\/?7dfj2PRlYSWt"
+                 "value":"Skribbl.io"
                 }],
          "type":"tilelayer",
          "visible":false,
